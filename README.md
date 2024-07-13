@@ -2,7 +2,7 @@
 
 This project demonstrates how to build an e-commerce store model using Kotlin Multiplatform. The application fetches data from an API using Ktor and is compatible with macOS, Windows, iOS, Android, and web platforms.
 
-![Screenshot 2024-07-13 at 12 04 45 PM](https://github.com/user-attachments/assets/ded21878-4003-4545-87de-e1de3e024f73)
+![Screenshot 2024-07-13 at 12 03 52 PM](https://github.com/user-attachments/assets/5f47d9db-72dd-4c71-ac54-ec5074212b96)
 
 
 ### Features
